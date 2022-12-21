@@ -1,3 +1,5 @@
+// Program to compute the sum of the digits of an input number (Using command line arguments)
+// Code by -Rajesh Kumar
 public class SumOfDigits {
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);
